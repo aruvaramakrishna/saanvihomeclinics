@@ -20,42 +20,42 @@ export default function SaanviHomeClinics() {
       title: "Injection",
       description: "Safe administration of prescribed medications through injections by our qualified nurses",
       details: "Our trained nurses provide safe and professional injection services in the comfort of your home. We follow all medical protocols to ensure proper administration of medications.",
-      image: "/images/injection.jpg"
+      image: `${process.env.PUBLIC_URL}/images/injection.jpg`
     },
     {
       id: "antibiotics",
       title: "Antibiotics Injection",
       description: "Specialized injection service for antibiotic medications requiring professional administration",
       details: "Antibiotic injections require precision and care. Our nurses are experienced in administering antibiotic injections with minimal discomfort while ensuring proper dosage.",
-      image: "/images/antibiotics.jpg"
+      image: `${process.env.PUBLIC_URL}/images/antibiotics.jpg`
     },
     {
       id: "bp",
       title: "BP Checkup",
       description: "Regular blood pressure monitoring by experienced healthcare professionals",
       details: "Regular blood pressure monitoring is essential for managing various health conditions. Our nurses provide accurate readings using calibrated equipment and maintain detailed records of your readings over time.",
-      image: "/images/bp-checkup.jpg"
+      image: `${process.env.PUBLIC_URL}/images/bp-checkup.jpg`
     },
     {
       id: "fluid",
       title: "Fluid and Injection",
       description: "Administration of IV fluids and required injections for patients needing hydration or medication",
       details: "For patients requiring intravenous fluids, our skilled nurses can set up and monitor IV fluid administration along with any necessary injections in your home environment.",
-      image: "/images/iv-fluid.jpg"
+      image: `${process.env.PUBLIC_URL}/images/iv-fluid.jpg`
     },
     {
       id: "cannulation",
       title: "Cannulation",
       description: "Professional insertion and management of cannulas for medication administration",
       details: "Our nurses are skilled in cannula insertion with minimal discomfort. We ensure proper placement, care, and monitoring of the cannula site to prevent complications.",
-      image: "/images/cannulation.jpg"
+      image: `${process.env.PUBLIC_URL}/images/cannulation.jpg`
     },
     {
       id: "dressing",
       title: "Dressing",
       description: "Wound care and dressing changes performed with sterile techniques",
       details: "Proper wound care is crucial for healing. Our nurses provide professional dressing changes using sterile techniques to prevent infection and promote healing of wounds, surgical sites, or pressure ulcers.",
-      image: "/images/dressing.jpg"
+      image: `${process.env.PUBLIC_URL}/images/dressing.jpg`
     }
   ];
 
