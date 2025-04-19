@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saanvihomeclinics/static/css/main.38d30da5.css",
+    "main.js": "/saanvihomeclinics/static/js/main.7ecd783a.js",
+    "index.html": "/saanvihomeclinics/index.html",
+    "main.38d30da5.css.map": "/saanvihomeclinics/static/css/main.38d30da5.css.map",
+    "main.7ecd783a.js.map": "/saanvihomeclinics/static/js/main.7ecd783a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38d30da5.css",
+    "static/js/main.7ecd783a.js"
+  ]
+}
