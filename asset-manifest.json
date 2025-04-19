@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/saanvihomeclinics/static/css/main.38d30da5.css",
-    "main.js": "/saanvihomeclinics/static/js/main.7ecd783a.js",
+    "main.js": "/saanvihomeclinics/static/js/main.ac2b6b96.js",
     "index.html": "/saanvihomeclinics/index.html",
     "main.38d30da5.css.map": "/saanvihomeclinics/static/css/main.38d30da5.css.map",
-    "main.7ecd783a.js.map": "/saanvihomeclinics/static/js/main.7ecd783a.js.map"
+    "main.ac2b6b96.js.map": "/saanvihomeclinics/static/js/main.ac2b6b96.js.map"
   },
   "entrypoints": [
     "static/css/main.38d30da5.css",
-    "static/js/main.7ecd783a.js"
+    "static/js/main.ac2b6b96.js"
   ]
 }
